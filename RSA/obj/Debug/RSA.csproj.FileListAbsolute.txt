@@ -1,0 +1,21 @@
+C:\Users\Admin\Desktop\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\Admin\Desktop\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\Admin\Desktop\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\Admin\Desktop\RSA\RSA\obj\Debug\RSA.Form1.resources
+C:\Users\Admin\Desktop\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\Admin\Desktop\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\Admin\Desktop\RSA\RSA\obj\Debug\RSA.pdb
+C:\Users\Admin\Desktop\RSA\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\RSA\RSA\obj\Debug\RSA.pdb
+C:\i\Projects\RSA\RSA\bin\Debug\RSA.exe.config
+C:\i\Projects\RSA\RSA\bin\Debug\RSA.exe
+C:\i\Projects\RSA\RSA\bin\Debug\RSA.pdb
+C:\i\Projects\RSA\RSA\obj\Debug\RSA.csprojAssemblyReference.cache
+C:\i\Projects\RSA\RSA\obj\Debug\RSA.Form1.resources
+C:\i\Projects\RSA\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\i\Projects\RSA\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
+C:\i\Projects\RSA\RSA\obj\Debug\RSA.exe
+C:\i\Projects\RSA\RSA\obj\Debug\RSA.pdb
